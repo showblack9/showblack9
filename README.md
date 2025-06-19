@@ -24,16 +24,16 @@
 
 <div align="center">
   <a href="https://www.youtube.com/@show_black_" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-cc0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://instagram.com/xseven7z" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/show_back_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-ff0000?style=for-the-badge&logo=twitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
   <a href="https://discord.gg/z4WPDcu4fU" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-ff0000?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-2c2f33?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
