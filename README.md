@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/YouTube-cc0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://instagram.com/xseven7z" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.twitch.tv/show_back_" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />
