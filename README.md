@@ -1,5 +1,10 @@
 ## 👋 Hello! Welcome to **ShowMenu**
 
+## 💖 Sponsor Me
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/showblack9)
+
+
 <div align="center">
   <a href="https://github.com/showblack9">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=showblack9&show_icons=true&theme=dark&icon_color=ff0000&title_color=ff0000&text_color=ffffff&hide_border=true&count_private=true"/>
